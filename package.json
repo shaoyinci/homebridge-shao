@@ -14,7 +14,7 @@
     "homebridge-plugin"
   ],
   "name": "homebridge-shao",
-  "version": "1.5.2",
+  "version": "2.0.0",
   "license": "MIT",
   "main": "index.js"
 }
